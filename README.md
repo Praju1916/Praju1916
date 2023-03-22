@@ -4,7 +4,7 @@
 <h4 align="center">An self-motivated and ambitious Tech Support Engineer. Skilled at analyzing complex problems and implementing effective solutions. Adept at communicating technical information to non-technical customers, ensuring excellent customer satisfaction.
 </h4>
 <a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src=""></a>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
+
 
 <h1>About Me </h1>
  <ul>
