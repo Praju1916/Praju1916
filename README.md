@@ -5,7 +5,7 @@
 </h4>
 <a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src=""></a>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
-<!-- <p align="left"> <img src="" alt="avinashkvar" /> </p> -->
+
 <h1>About Me </h1>
  <ul>
   <li>🔭 Intrigued to learn new technologies.</li>
